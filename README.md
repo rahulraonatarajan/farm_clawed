@@ -20,6 +20,14 @@
 
 **farm_clawed** is an _AI-first farm automation platform_ you run on your own devices. Whether you're nurturing a single container plant or managing a commercial permaculture operation, farm_clawed provides intelligent recommendations, safety-first automation, and ROI tracking.
 
+<p align="center">
+  <img src="docs/images/farm-clawed-dashboard.png" alt="farm_clawed Dashboard - Farm Map with AI Insights and Floating Chat" width="800">
+</p>
+
+<p align="center">
+  <em>Farm Map view with AI Insights panel and floating chat assistant</em>
+</p>
+
 ## Key Features
 
 - **AI-First Interface** — ChatGPT-style conversational UI as your primary farming tool
