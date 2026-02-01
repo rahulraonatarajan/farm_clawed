@@ -349,7 +349,7 @@ farm_clawed is built on the shoulders of giants:
 - **[Peter Steinberger](https://github.com/steipete)** — Creator of [OpenClaw](https://github.com/openclaw/openclaw), the powerful AI platform that farm_clawed is built upon
 - **[Rahul Rao Natarajan](https://github.com/rahulraonatarajan)** — farm_clawed fork maintainer, autonomous farming features
 
-We welcome contributions from farmers, developers, and permaculture enthusiasts! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+We welcome contributions from farmers, developers, and permaculture enthusiasts! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines. Thank you
 
 ## License
 
