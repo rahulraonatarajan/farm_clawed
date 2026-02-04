@@ -1,4 +1,4 @@
-# farm_clawed — AI-first Farm Operator (Permaculture-ready)
+# farm_clawed — AI-first Farm Operator
 
 <p align="center">
   <img src="ui/public/assets/farm-clawed-logo.svg" alt="farm_clawed" width="120" height="120">
